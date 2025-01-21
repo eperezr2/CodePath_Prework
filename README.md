@@ -5,7 +5,7 @@ Submitted by: Emily Perez-Rodriguez
 
 **CodePath_Prework** is an app that presents my name, school, and anticipated career as well as a button that when clicked, changes the background color
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
