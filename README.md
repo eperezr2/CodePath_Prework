@@ -26,7 +26,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
     </a>
   </div>
 
-  <div style="position: relative; padding-bottom: 217.52265861027192%; height: 0;"><iframe src="https://www.loom.com/embed/76c0964a398f4df785f40064292c44cf?sid=079f5cf7-b4e8-498b-a492-8a1b79367ab9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 
 ## App Brainstorming (Step 4)
